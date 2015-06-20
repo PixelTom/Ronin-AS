@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tempAssets.png">
+	<!-- Created with Adobe Flash Professional version 14.2.0.20 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="hexMC0000" x="0" y="0" width="102" height="77" pivotX="51" pivotY="38.5"/>
+	<SubTexture name="hexMC0001" x="102" y="0" width="102" height="77"/>
+	<SubTexture name="hexMC0002" x="204" y="0" width="102" height="77"/>
+	<SubTexture name="hexMC0003" x="306" y="0" width="101" height="75" frameX="-1" frameY="-1" frameWidth="102" frameHeight="77"/>
+	<SubTexture name="hexMC0004" x="407" y="0" width="101" height="75" frameX="-1" frameY="-1" frameWidth="102" frameHeight="77"/>
+</TextureAtlas>
